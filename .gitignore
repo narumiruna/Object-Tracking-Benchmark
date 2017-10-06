@@ -1,0 +1,6 @@
+datasets/
+tmp/
+
+.DS_Store
+goturn.prototxt
+goturn.caffemodel
